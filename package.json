@@ -1,0 +1,12 @@
+{
+  "name": "casino-market-landing-templates",
+  "version": "1.0.0",
+  "description": "Reusable HTML/CSS/JS landing templates for iGaming marketing campaigns",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
